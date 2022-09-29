@@ -1,5 +1,8 @@
 # CMPG323Project3-26906880
 
+Description
+
+This project is about implementing repository patterns for more abstraction of data services and security of sensitive data by implementing different tiers for each iteration
 
 
 References:
