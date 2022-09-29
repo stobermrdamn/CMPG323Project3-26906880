@@ -41,5 +41,10 @@ ASP.NET tutorial
 https://www.youtube.com/watch?v=QU2QzPDh3-I
 Implementing repository pattern in C# & ASP.NET
 
+https://www.tutorialspoint.com/asp.net/asp.net_quick_guide.htm
+ASP.NET guide
+
+ASP.NET Guide.docx
+
 
 
