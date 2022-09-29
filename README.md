@@ -28,3 +28,18 @@ Intro to design patterns
 
 https://efundi.nwu.ac.za/portal/site/b4bd0272-e3c3-4151-b9ce-3888cdadc374/tool/e37d08d2-3327-4a8f-9461-8a8a222e7e18?panel=Main
 Applications of design patterns
+
+https://github.com/JacquiM/CMPG323-Patterns-Demo
+DEmo Project
+
+https://learn.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.authentication.azureadb2c.ui?view=aspnetcore-5.0
+Microsoft.AspNetCore.Authentication.AzureADB2C.UI Namespace
+
+https://www.tutorialspoint.com/asp.net/index.htm#:~:text=ASP.NET%20is%20a%20web,to%20build%20web%20applications%20easily.
+ASP.NET tutorial
+
+https://www.youtube.com/watch?v=QU2QzPDh3-I
+Implementing repository pattern in C# & ASP.NET
+
+
+
